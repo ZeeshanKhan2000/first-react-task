@@ -1,0 +1,48 @@
+.profile-heading {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.profile-heading h1 {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.profile-detail p {
+    margin: 0;
+    font-size: 21px;
+}
+
+.profile-detail {
+    margin: 25px 80px;
+}
+
+.profile-detail span {
+    font-size: 29px;
+    font-weight: 700;
+}
+
+.profile-task p {
+    font-size: 21px;
+    margin: 10px 80px;
+}
+
+.blogs-content h4 {
+    font-weight: 800;
+    margin: 15px 0px;
+}
+
+.blogs-content p {
+    margin: 15px 0 0 0;
+    color: deepskyblue;
+    font-size: 22px;
+}
+
+.blogs-content small {
+    font-size: 18px;
+    color: gray;
+}
+
+.blogs-content {
+    margin: 0 80px;
+}
